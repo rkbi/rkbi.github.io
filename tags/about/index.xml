@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on Poorman&#39;s thoughts</title>
+    <link>https://rkbi.github.io/tags/about/</link>
+    <description>Recent content in about on Poorman&#39;s thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Rakibul Islam</copyright>
+    <lastBuildDate>Tue, 05 May 2020 21:40:22 +0600</lastBuildDate>
+    
+	<atom:link href="https://rkbi.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Who Am I</title>
+      <link>https://rkbi.github.io/posts/whoami/</link>
+      <pubDate>Tue, 05 May 2020 21:40:22 +0600</pubDate>
+      
+      <guid>https://rkbi.github.io/posts/whoami/</guid>
+      <description>Just another poor needy coder, trying to become a programmer.
+Currently working at @sslwireless.
+Any words on this blog are solely my own, and not affilliated with my employer in any ways.</description>
+    </item>
+    
+  </channel>
+</rss>
